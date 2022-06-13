@@ -1,0 +1,32 @@
+.h1{
+    color: darkolivegreen;
+
+}
+*{
+    border: solid;
+}
+.header{
+    background-color: burlywood;
+    display: flex;
+    justify-content: space-between;
+}
+.jetgrid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.games{
+    display: flex;
+    background-color: burlywood;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.footer{
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    background-color: rgb(203, 62, 62);
+}
+p,h2{
+    text-align: center;
+}
